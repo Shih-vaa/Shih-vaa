@@ -119,11 +119,7 @@ AI-powered Kubernetes Incident Intelligence Platform.
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shih-vaa&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shih-vaa&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shih-vaa&theme=tokyonight"/>
