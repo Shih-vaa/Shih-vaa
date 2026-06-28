@@ -122,7 +122,7 @@ AI-powered Kubernetes Incident Intelligence Platform.
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shih-vaa&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shih-vaa&theme=tokyonight&cache_seconds=3600" />
 </p>
 
 ---
