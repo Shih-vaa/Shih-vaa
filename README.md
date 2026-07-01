@@ -119,17 +119,15 @@ AI-powered Kubernetes Incident Intelligence Platform.
 
 # 📊 GitHub Stats
 
-
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shih-vaa&theme=tokyonight&cache_seconds=3600" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shih-vaa&theme=radical&hide_border=true&border_radius=60" alt="GitHub Streak" /></a>
 </p>
-
 ---
 
 ## 📈 GitHub Activity Graph
 
 [![Apoorv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shih-vaa\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
