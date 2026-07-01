@@ -126,7 +126,7 @@ AI-powered Kubernetes Incident Intelligence Platform.
 
 ## 📈 GitHub Activity Graph
 
-[![Apoorv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shih-vaa\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shih-vaa&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
