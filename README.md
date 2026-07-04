@@ -120,7 +120,9 @@ AI-powered Kubernetes Incident Intelligence Platform.
 # 📊 GitHub Stats
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shih-vaa&theme=radical&hide_border=true&border_radius=60" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shih-vaa&cache_bust=123456789&theme=radical&hide_border=true&border_radius=60" alt="GitHub Streak" />
+  </a>
 </p>
 ---
 
