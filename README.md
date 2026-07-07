@@ -131,14 +131,3 @@ AI-powered Kubernetes Incident Intelligence Platform.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shih-vaa&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shih-vaa&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
